@@ -14,7 +14,7 @@ int main(){
 
     //MUESTRA EL MENSAJE Y LEE ALTURA
     printf(" Digite la altura del rectangulo: (cm) ");
-    scanf("%f", &altura);
+    scanf("%lf", &altura);
 
     //PROCESO: MULTIPLICARA Y GUARDA EL RESULTADO
 
