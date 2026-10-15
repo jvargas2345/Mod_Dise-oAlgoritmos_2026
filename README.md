@@ -107,11 +107,11 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 <summary><b>Unidad 2 · Programación estructurada en C</b> (sesiones 14 a 24)</summary>
 
 | Sesión  | Tema                                         | Qué aprendí |                  Evidencia                   | Estado |
-| :-----: | :------------------------------------------- | :---------- | :------------------------------------------: | :----: |
-|   S14   | Sistemas numéricos                           |             |               [ver](UA2/S14/)                |   ⬜   |
+| :-----: | :------------------------------------------- | :---------- | :------------------------------------------: | :----:    |
+|   S14   | Sistemas numéricos                           | Aprendi sobre los sistemas numericos en c            |    ⬜   |           [ver](UA2/recursos/S14.png)|   
 |   S15   | Control de versiones con git y GitHub        |             |               [ver](UA2/S15/)                |   ⬜   |
 |   S16   | Formato de un programa en C y compilación    |             |               [ver](UA2/S16/)                |   ⬜   |
-|   S17   | Variables, constantes y entrada/salida       |             |               [ver](UA2/S17/)                |   ⬜   |
+|   S17   | Variables, constantes y entrada/salida       | Aprendi sobre tipos de datos entrada y salida           |[ver](UA2/recursos/S17.png)                |   ⬜   |
 |   S18   | Operadores, casting e if … else              |             |               [ver](UA2/S18/)                |   ⬜   |
 |   S19   | Ciclos y switch                              |             |               [ver](UA2/S19/)                |   ⬜   |
 |   S20   | Arreglos, matrices y cadenas                 |             |               [ver](UA2/S20/)                |   ⬜   |
