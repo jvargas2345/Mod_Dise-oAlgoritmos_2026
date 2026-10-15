@@ -10,8 +10,6 @@ printf("Digite su edad \n");
 //El % guarda espacio en la memoria y da a entender que es un string
 scanf("%d", &edad);
 
-
-
 //MOSTRAR LA SALIDA
 printf ("edad, registrada: %d\n", edad);
 return 0;
