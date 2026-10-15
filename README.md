@@ -114,7 +114,7 @@ Las capturas de pantalla van en la subcarpeta `capturas/` de cada sesión
 |   S17   | Variables, constantes y entrada/salida       | Aprendi sobre tipos de datos entrada y salida           |[ver](UA2/recursos/S17.png)                |   ⬜   |
 |   S18   | Operadores, casting e if … else              |             |               [ver](UA2/S18/)                |   ⬜   |
 |   S19   | Ciclos y switch                              |             |               [ver](UA2/S19/)                |   ⬜   |
-|   S20   | Arreglos, matrices y cadenas                 |             |               [ver](UA2/S20/)                |   ⬜   |
+|   S20   | Arreglos, matrices y cadenas                 |Aprendimos con practicas a realizar matrizes             |               [ver](UA2/recursos/S20.png)                |   ⬜   |
 |   S21   | Funciones                                    |             |               [ver](UA2/S21/)                |   ⬜   |
 |   S22   | Paso de parámetros por valor y por dirección |             |               [ver](UA2/S22/)                |   ⬜   |
 | S23–S24 | **Actividad de comprobación 2**              |             | [ver](actividades/A2_Mi_primera_aplicacion/) |   ⬜   |
