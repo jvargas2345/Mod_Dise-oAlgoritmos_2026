@@ -57,7 +57,7 @@ int main(void){
         /*Mostrar fila  */
         printf("Total vendido: %12,2f/n", totalVendidos);
         //Compras mayor
-        printf("Compra mayor: %s()");
+        printf("Compra mayor: %d()");
     }
 
     //Definiciones. Leer enetero
@@ -66,9 +66,8 @@ int main(void){
         int valor;
         do{
             printf("%s(%d a %d):", mensaje);
-            while (valor< minimo || valor > )
-            {
-                /* code */
+            while (valor< minimo || valor > ){
+                
             }
             
         }
